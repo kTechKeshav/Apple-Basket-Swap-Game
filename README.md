@@ -3,6 +3,11 @@
 ## Overview
 The Apple Basket Swap Game is an interactive frontend project built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates my skills in DOM manipulation and user interaction through a fun and engaging game that allows users to swap apples between two baskets.
 
+Project Link:
+```
+  https://ktechkeshav.github.io/Apple-Basket-Swap-Game/
+```
+
 ## Features
 - Two baskets with apple counts.
 - Swap apples between the baskets using intuitive buttons.
